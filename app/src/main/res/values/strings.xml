@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WorkoutBookV2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="works">
+        <item>Squats</item>
+        <item>Deadlifts</item>
+        <item>Lunges</item>
+        <item>Leg Press</item>
+        <item>Leg Extensions</item>
+        <item>Hamstring Curls</item>
+        <item>Calf Raises</item>
+       <item>Bench Press</item>
+        <item>Dumbbell Flyes</item>
+        <item>Incline Bench Press</item>
+        <item>Push-Ups</item>
+        <item>Chest Dips</item>
+        <item>Cable Crossovers</item>
+        <item>Decline Bench Press</item>
+        <item>Machine Chest Press</item>
+        <item>Incline Dumbbell Press</item>
+        <item>Pullovers</item>
+        <item>Pull-Ups</item>
+        <item>Bent-Over Rows</item>
+        <item>Lat Pulldowns</item>
+        <item>T-Bar Rows</item>
+        <item>Seated Cable Rows</item>
+
+    </string-array>
+</resources>
